@@ -146,23 +146,23 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Legal Technology
+          level: 90%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
+          name: Entrepreneurship
+          level: 90%
         - skill:
           name: HTML5 & CSS
-          level: 95%
+          level: 80%
         - skill:
           name: Ruby on Rails
-          level: 85%
+          level: 80%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Javascript
+          level: 70%
+        - skill:
+          name: Solidity
+          level: 70%
 
 
 footer: 
