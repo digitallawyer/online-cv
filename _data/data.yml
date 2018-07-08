@@ -52,28 +52,22 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: About Me
+    text: 'Deeply passionate about the intersection of law and technology. You can <a href="mailto:pietergunst@gmail.com" target="_blank">contact me here</a>.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: LL.M, Law, Science and Technology
+      university: Stanford Law School
+      time: 2010 - 2011
+      details: "During my time at Stanford, I studied how the law impacts technology and technology impacts law. I was a board member at the Stanford Law and Technology Association (SLATA) an editor for the Stanford Technology Law Review (STLR)."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Master of Law
+      university: Ghent University
+      time: 2003 - 2008
+      details: "I studies law in Ghent, Belgium."
 
 
 
