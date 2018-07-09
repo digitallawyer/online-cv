@@ -9,7 +9,9 @@ layout: default
 
 {% include experience.html %}
 
-{% include education.html %}
+{% if site.education_in_main %}
+    {% include education.html %}
+{% endif %}
 
 {% include publications.html %}
 
