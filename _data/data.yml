@@ -175,6 +175,9 @@ skills:
         - skill:
           name: Injustice
           level: 5%
+        - skill:
+          name: Giving up
+          level: 5%
 
 
 footer: 
