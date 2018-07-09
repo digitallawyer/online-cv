@@ -133,10 +133,11 @@ awards:
     
     awards:
 
-        - role: Forbes 30 Under 30: Law and Policy
+        - role: Forbes 30 Under 30 - Law and Policy
           time: January 2015
           company: Forbes Magazine
           details: ''
+          
         - role: CodeX Fellow
           time: 2012 - Present
           company: CodeX (Stanford Center for Legal Informatics)
