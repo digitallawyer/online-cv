@@ -23,12 +23,18 @@
     .main-wrapper .upper-row {
         margin-bottom: 0;
     }
-
+   
+    .hidden-mobile {
+      display: none;
+    }
 
 }
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-
+    .visible-tablet {
+      display: none;
+    }
 
 }
 
