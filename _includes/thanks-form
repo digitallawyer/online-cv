@@ -1,0 +1,21 @@
+<style>
+   
+.btn {
+  color: #ffffff;
+  font-size: 20px;
+  background: #4b6a78;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #3c5460;
+  text-decoration: none;
+  color: #ffffff;
+}
+</style>
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-check"></i>Message Sent!</h2>
+
+
+
+</section><!--//section-->
