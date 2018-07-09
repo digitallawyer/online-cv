@@ -103,29 +103,17 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Legal.io
+        link: "https://www.legal.io"
+        tagline: "Decentralized Legal Services Delivery Platform. On a mission to encode legal access worldwide."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: Stanford Tech Index
+        link: "http://techindex.law.stanford.edu/"
+        tagline: "A curated list of companies changing the way legal is done."
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-
-
+        title: In Legal Terms
+        link: "https://inlegalterms.com"
+        tagline: "An instantly searchable version of Black Law Dictionary (2nd Ed)."
 
 publications:
     title: Publications
