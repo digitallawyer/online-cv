@@ -36,15 +36,15 @@ sidebar:
           level: Basic
         
     #interests:
-        - interest:
-          item: Law
-          link:
-        - interest:
-          item: Technology
-          link:
-        - interest:
-          item: Treehouses
-          link:
+        # - interest:
+          # item: Law
+          # link:
+        # - interest:
+          # item: Technology
+          # link:
+        # - interest:
+          # item: Treehouses
+          # link:
 
 career-profile: 
     title: About Me
