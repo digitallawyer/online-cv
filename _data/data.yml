@@ -48,11 +48,11 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'Deeply passionate about the intersection of law and technology. Most in my element when I get to work on challenging problems with smart people. On a mission to encode legal access worldwide. If you are interested in contributing, <a href="/contact">contact me</a>.'
+    text: 'Hi, I&#39;m Pieter! Deeply passionate about the intersection of law and technology. Most in my element when I get to work on challenging problems with smart people. On a mission to encode legal access worldwide. If you are interested in contributing, <a href="/contact">contact me</a>.'
 
 studies: 
     - education:
-      degree: LL.M, Law, Science & Technology
+      degree: LL.M, Law, Science &amp; Technology
       university: Stanford Law School
       time: 2010 - 2011
       details: ""
