@@ -53,7 +53,7 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'Deeply passionate about the intersection of law and technology. You can <a href="mailto:pietergunst@gmail.com" target="_blank">contact me here</a>.'
+    text: 'Deeply passionate about the intersection of law and technology. I'm most in my element when I get to work on challenging problems with smart people. On a mission to encode legal access worldwide.'
 
 
 studies: 
@@ -105,7 +105,7 @@ projects:
       - project:
         title: Legal.io
         link: "https://www.legal.io"
-        tagline: "Decentralized Legal Services Delivery Platform. On a mission to encode legal access worldwide."
+        tagline: "Decentralized Legal Services Delivery Platform."
       - project:
         title: Stanford Tech Index
         link: "http://techindex.law.stanford.edu/"
