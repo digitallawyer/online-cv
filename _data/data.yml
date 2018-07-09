@@ -46,11 +46,6 @@ sidebar:
           item: Treehouses
           link:
 
-        
-
-
-
-
 career-profile: 
     title: About Me
     text: 'Deeply passionate about the intersection of law and technology. Most in my element when I get to work on challenging problems with smart people. On a mission to encode legal access worldwide.'
@@ -68,7 +63,23 @@ studies:
       time: 2003 - 2008
       details: ""
 
-
+projects:
+    title: Projects
+    #intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    
+    projects:
+      - project:
+        title: Legal.io
+        link: "https://www.legal.io"
+        tagline: "Decentralized Legal Services Delivery Platform."
+      - project:
+        title: Stanford Tech Index
+        link: "http://techindex.law.stanford.edu/"
+        tagline: "A curated list of companies changing the way legal is done."
+      - project:
+        title: In Legal Terms
+        link: "https://inlegalterms.com"
+        tagline: "An instantly searchable version of Black Law Dictionary (2nd Ed)."
 
 experiences:
     title: Experience  
@@ -94,24 +105,6 @@ experiences:
           company: DLA Piper, Brussels
           details: 'Advised national, multi-national and governmental organizations on data protection, telecom law, electronic payment, intellectual property issues, gambling legislation, online commerce, consumer protection and NATO procurement rules. Drafted and negotiated a wide range of commercial agreements for clients, such as general conditions, privacy policies, software licensing and development contracts, IT outsourcing contracts, service contracts, etc. <br><br> Worked on studies commissioned by the European Commission (DG Information Society, DG Health and Consumers and DG Research) involving a wide variety of legal instruments related to the information society. Performed extensive research on net neutrality, cybercrime and privacy issues, and drafted policymaking recommendations.'
 
-projects:
-    title: Projects
-    #intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    projects:
-      - project:
-        title: Legal.io
-        link: "https://www.legal.io"
-        tagline: "Decentralized Legal Services Delivery Platform."
-      - project:
-        title: Stanford Tech Index
-        link: "http://techindex.law.stanford.edu/"
-        tagline: "A curated list of companies changing the way legal is done."
-      - project:
-        title: In Legal Terms
-        link: "https://inlegalterms.com"
-        tagline: "An instantly searchable version of Black Law Dictionary (2nd Ed)."
-
 publications:
     title: Publications
     intro: ""
@@ -126,10 +119,8 @@ publications:
         authors: Van Eecke, P., De Bruyn, J., De Munter, M., De Vulder, K., Dierick, A., Fierens, A., Gobbin, J., Gunst, P., Neyt, R., Truyens, M., Verbrugge, E., Vervaet, D., Wagner, K.
         conference: "Law and Electronic Trade (Recht en Elektronische Handel), Larcier (2011)"
 
-
 awards:
     title: Awards
-    
     
     awards:
 
