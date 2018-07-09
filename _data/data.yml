@@ -166,6 +166,12 @@ skills:
         - skill:
           name: Solidity
           level: 70%
+        - skill:
+          name: Waffles
+          level: 70%
+        - skill:
+          name: Injustice
+          level: 5%
 
 
 footer: 
