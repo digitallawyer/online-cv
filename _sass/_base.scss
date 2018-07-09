@@ -22,7 +22,12 @@ a {
     &:focus {
         text-decoration: none;
     }
+    
+    .blue-link {
+        color: #337ab7;
+    }
 }
+
 
 p {
     line-height: 1.5;
