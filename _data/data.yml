@@ -129,6 +129,11 @@ awards:
     
     awards:
 
+        - role: Fastcase 50
+          time: July 2018
+          company: FastCase
+          details: 'The Fastcase 50 award recognizes the year’s smartest, most courageous innovators, techies, visionaries, and leaders in the law.'
+          
         - role: Forbes 30 Under 30
           time: January 2015
           company: Forbes Magazine
