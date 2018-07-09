@@ -36,7 +36,12 @@ textarea {
   <div class="item">
 
     <form method="POST" action="https://formspree.io/pieter@legal.io">
-      <input type="text" name="_subject" value="This sets the subject" />
+      <select name="_subject">
+          <option value="volvo">Volvo</option>
+          <option value="saab">Saab</option>
+          <option value="mercedes">Mercedes</option>
+          <option value="audi">Audi</option>
+      </select>
       <input type="email" name="email" placeholder="Your email address">
       <textarea name="message" placeholder="Your message"></textarea>
       <button class="btn" type="submit">Send</button>
