@@ -1,5 +1,6 @@
 {% if site.data.data.studies %}
-        <section class="section educations-section visible-tablet">
+    {% if site.education_in_main %}
+        <section class="section educations-section">
         <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
         {% for education in site.data.data.studies %}
           <div class="item">
@@ -23,6 +24,7 @@
         {% endfor %}
         
         </section><!--//section-->
+    {% else %}
         <div class="education-container container-block hidden-mobile">
 
         <h2 class="container-block-title">Education</h2>
@@ -36,4 +38,5 @@
       {% endfor %}
 
     </div><!--//education-container-->
+    {% endif %}
 {% endif %}
