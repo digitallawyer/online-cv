@@ -155,19 +155,22 @@ skills:
           name: Entrepreneurship
           level: 90%
         - skill:
+          name: Being helpful
+          level: 90%
+        - skill:
           name: HTML5 & CSS
           level: 80%
         - skill:
           name: Ruby on Rails
           level: 80%
         - skill:
+          name: Making Waffles
+          level: 80%
+        - skill:
           name: Javascript
           level: 70%
         - skill:
           name: Solidity
-          level: 70%
-        - skill:
-          name: Waffles
           level: 70%
         - skill:
           name: Injustice
