@@ -81,16 +81,16 @@ experiences:
           company: Legal.io, San Francisco
           details: Founded and recruited a team for a legal technology company developing a decentralized platform for legal services delivery. Lead the development of the platform along with strategic plans, partnerships, outreach to investors and philanthropic foundations.
 
-        - role: Teaching Assistant
-          time: 2011 - 2012
-          company: Stanford University, Stanford
-          details: Assisted with the development of curriculum and the teaching of the first Legal Technology and informatics course taught at Stanford Law School.
-        
         - role: Assistant to the General Counsel
           time: 2011 - 2012
           company: SurveyMonkey, Palo Alto
           details: 'Provided research and guidance on international and US legal matters, including privacy, intellectual property and commercial issues. Reviewing and drafting commercial agreements, and mapping and improving existing legal processes through automation. <br><br> Worked on the restructuring of the national and international operations of the company with business stakeholders, internal and external counsel.'
 
+        - role: Teaching Assistant
+          time: 2011 - 2012
+          company: Stanford University, Stanford
+          details: Assisted with the development of curriculum and the teaching of the first Legal Technology and informatics course taught at Stanford Law School.
+        
         - role: Attorney, Member of the Bar
           time: 2008 - 2010
           company: DLA Piper, Brussels
