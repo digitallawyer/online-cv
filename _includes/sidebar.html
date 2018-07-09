@@ -45,13 +45,16 @@
        </ul>
    </div><!--//contact-container-->
 
-  {% if site.education_in_main == null or site.education_in_main == false %}
-    {% include education.html %}
-  {% endif %}
-  {% include language.html %}
-  {% include interests.html %}
-  {% if site.data.data.sidebar.about == true %}
-    {% include about.html %}
-  {% endif %}
+  {% unless page.exclude %}
+      {% if site.education_in_main == null or site.education_in_main == false %}
 
+         {% include education.html %}
+   
+     {% endif %}
+     {% include language.html %}
+     {% include interests.html %}
+     {% if site.data.data.sidebar.about == true %}
+       {% include about.html %}
+     {% endif %}
+  {% endunless %}
 </div><!--//sidebar-wrapper-->
