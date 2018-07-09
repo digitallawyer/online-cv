@@ -76,21 +76,25 @@ experiences:
     
     
     experiences:
-        - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        - role: Founder and President
+          time: 2012 - Present
+          company: Legal.io, San Francisco
+          details: Founded and recruited a team for a Stanford-based enterprise building an online platform to help increase access to justice by facilitating access to legal knowledge and expertise. Lead the development of the online software platform along with strategic plans, partnerships, outreach to investors and philanthropic foundations.
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Teaching Assistant
+          time: 2011 - 2012
+          company: Stanford University, Stanford
+          details: Assisted with the development of curriculum and the teaching of the first Legal Technology and informatics course taught at Stanford Law School.
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Assistant to the General Counsel
+          time: 2011 - 2012
+          company: SurveyMonkey, Palo Alto
+          details: Provided research and guidance on international and US legal matters, including privacy, intellectual property and commercial issues. Reviewing and drafting commercial agreements, and mapping and improving existing legal processes through automation. Worked on the restructuring of the national and international operations of the company with business stakeholders, internal and external counsel.
 
+        - role: Attorney, Member of the Bar
+          time: 2008 - 2010
+          company: DLA Piper, Brussels
+          details: Advised national, multi-national and governmental organizations on data protection, telecom law, electronic payment, intellectual property issues, gambling legislation, online commerce, consumer protection and NATO procurement rules. Drafted and negotiated a wide range of commercial agreements for clients, such as general conditions, privacy policies, software licensing and development contracts, IT outsourcing contracts, service contracts, etc. Performed a six-month secondment for a large multinational IT consultancy firm, acting as an external contract manager for 3 high value projects. Efforts included providing on- and off-site legal support, supporting software specification development and giving contract awareness training to operational staff. Worked on studies commissioned by the European Commission (DG Information Society, DG Health and Consumers and DG Research) involving a wide variety of legal instruments related to the information society. Performed extensive research on net neutrality, cybercrime and privacy issues, and drafted policymaking recommendations. Provided assistance in (pre-)litigation on several high-profile cases by conducting research, drafting court papers and pleading. Represented clients in domain name disputes, from initial negotiation to successful completion of arbitration procedures.
 
 projects:
     title: Projects
