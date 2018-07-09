@@ -124,10 +124,10 @@ awards:
     
     awards:
 
-        - role: Forbes 30 Under 30 - Law and Policy
+        - role: Forbes 30 Under 30
           time: January 2015
           company: Forbes Magazine
-          details: ''
+          details: 'Selected as one of 30 of the best and boldest young leaders, entrepreneurs, creators and thinkers in the Law and Policy category of the Forbes annual 30 under 30 list.'
           
         - role: CodeX Fellow
           time: 2012 - Present
