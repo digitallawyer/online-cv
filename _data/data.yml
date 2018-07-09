@@ -90,7 +90,12 @@ experiences:
           company: Legal.io, San Francisco
           details: Founded and recruited a team for a legal technology company developing a decentralized platform for legal services delivery. Lead the development of the platform along with strategic plans, partnerships, outreach to investors and philanthropic foundations.
 
-        - role: Assistant to the General Counsel
+        - role: CodeX Fellow
+          time: 2012 - Present
+          company: CodeX (Stanford Center for Legal Informatics)
+          details: 'Conduct research in relation to legal informatics and the development of innovative technologies and tools to reduce transaction costs within the legal system. Coordinate the development of the legal technology community around CodeX, working with entrepreneurs, industry partners and academics working in the field.'
+
+        - role: In-House Counsel
           time: 2011 - 2012
           company: SurveyMonkey, Palo Alto
           details: 'Provided research and guidance on international and US legal matters, including privacy, intellectual property and commercial issues. Reviewing and drafting commercial agreements, and mapping and improving existing legal processes through automation. <br><br> Worked on the restructuring of the national and international operations of the company with business stakeholders, internal and external counsel.'
@@ -127,13 +132,8 @@ awards:
         - role: Forbes 30 Under 30
           time: January 2015
           company: Forbes Magazine
-          details: 'Selected as one of 30 of the best and boldest young leaders, entrepreneurs, creators and thinkers in the Law and Policy category of the Forbes annual 30 under 30 list.'
+          details: 'Selected as one of 30 of the best and boldest young leaders, entrepreneurs, creators and thinkers in the Law and Policy category of the annual Forbes 30 under 30 list.'
           
-        - role: CodeX Fellow
-          time: 2012 - Present
-          company: CodeX (Stanford Center for Legal Informatics)
-          details: 'Conduct research in relation to legal informatics and the development of innovative technologies and tools to reduce transaction costs within the legal system. Coordinate the development of the legal technology community around CodeX, working with entrepreneurs, industry partners and academics working in the field.'
-
         - role: Shuttleworth Grantee
           time: November 2012
           company: Shuttleworth Foundation
