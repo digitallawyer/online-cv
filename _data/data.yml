@@ -73,6 +73,10 @@ projects:
         link: "https://www.legal.io"
         tagline: "Decentralized Legal Services Delivery Platform."
       - project:
+        title: BlockoPolo
+        link: "https://www.blockopolo.com/"
+        tagline: "An Ethereum Blockchain Explorer."
+- project:
         title: Stanford Tech Index
         link: "http://techindex.law.stanford.edu/"
         tagline: "A curated list of companies changing the way legal is done."
