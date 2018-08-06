@@ -81,7 +81,7 @@ projects:
         link: "http://techindex.law.stanford.edu/"
         tagline: "A curated list of companies changing the way legal is done."
       - project:
-        title: In Legal Terms
+        title: Open Legal Dictionary
         link: "https://www.openlegaldictionary.com"
         tagline: "An instantly searchable version of Black Law Dictionary (2nd Ed)."
 
